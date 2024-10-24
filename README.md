@@ -7,3 +7,4 @@ This repository contains my solutions to various coding challenges on [Edabit](h
 ## JavaScript
 
 - [Very Easy](https://github.com/unainavarro/edabit-solutions/tree/main/01-very-easy)
+- [Easy](https://github.com/unainavarro/edabit-solutions/tree/main/02-easy)
